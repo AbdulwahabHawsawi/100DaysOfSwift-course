@@ -1,0 +1,10 @@
+# Uncomment the next line to define a global platform for your project
+platform :ios
+use_frameworks!
+
+target 'helloWorld' do
+  
+  
+  # Pods for helloWorld
+  pod 'Alamofire'
+end
